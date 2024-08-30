@@ -1,0 +1,6 @@
+beautifulsoup4
+fire
+numpy
+requests
+scikit-learn
+Wikipedia-API==0.6.0
