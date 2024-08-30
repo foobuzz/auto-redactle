@@ -2,7 +2,7 @@
 
 A proof of concept for a Redactle solver based on a 10 MB index of Wikipedia. Read more at http://blog.valentin.sh/redactle/
 
-<video src="https://blog.valentin.sh/assets/articles/auto-redactle-demo.webm" width="352" height="720"></video>
+<video src="https://github.com/user-attachments/assets/aceefc3e-2fb3-490e-93cc-9cd7918a8b6b" width="352" height="720"></video>
 
 ## Installation
 
